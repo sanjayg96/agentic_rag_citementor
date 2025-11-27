@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+rank_bm25
+python-dotenv
+tiktoken
+pysqlite3-binary
+pandas
+nltk
